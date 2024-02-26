@@ -1,4 +1,8 @@
-# CSC320A1
+# CSC322A1
+Gareth Marriott (v-num),
+Oliver Diaz (V00967008),
+name (v-num),
+name (v-num)
 
 # USAGE:
 
