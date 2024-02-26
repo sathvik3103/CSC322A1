@@ -1,0 +1,760 @@
+1
+{'restarts': 2.0,
+ 'conflicts': 134.0,
+ 'propagations': 5035.0,
+ 'conflict literals': 1711.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006879,
+ 'satisfiable': True}
+2
+{'restarts': 1.0,
+ 'conflicts': 43.0,
+ 'propagations': 2215.0,
+ 'conflict literals': 567.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006237,
+ 'satisfiable': True}
+3
+{'restarts': 3.0,
+ 'conflicts': 249.0,
+ 'propagations': 10137.0,
+ 'conflict literals': 2741.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004007,
+ 'satisfiable': True}
+4
+{'restarts': 2.0,
+ 'conflicts': 165.0,
+ 'propagations': 6465.0,
+ 'conflict literals': 1385.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001567,
+ 'satisfiable': True}
+5
+{'restarts': 2.0,
+ 'conflicts': 156.0,
+ 'propagations': 4335.0,
+ 'conflict literals': 1312.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.009126,
+ 'satisfiable': True}
+6
+{'restarts': 5.0,
+ 'conflicts': 591.0,
+ 'propagations': 18093.0,
+ 'conflict literals': 7032.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004132,
+ 'satisfiable': True}
+7
+{'restarts': 5.0,
+ 'conflicts': 579.0,
+ 'propagations': 24285.0,
+ 'conflict literals': 9304.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00878,
+ 'satisfiable': True}
+8
+{'restarts': 2.0,
+ 'conflicts': 106.0,
+ 'propagations': 4464.0,
+ 'conflict literals': 922.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005987,
+ 'satisfiable': True}
+9
+{'restarts': 3.0,
+ 'conflicts': 316.0,
+ 'propagations': 12208.0,
+ 'conflict literals': 5236.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.003103,
+ 'satisfiable': True}
+10
+{'restarts': 3.0,
+ 'conflicts': 390.0,
+ 'propagations': 15474.0,
+ 'conflict literals': 4304.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.007285,
+ 'satisfiable': True}
+11
+{'restarts': 7.0,
+ 'conflicts': 977.0,
+ 'propagations': 44369.0,
+ 'conflict literals': 15526.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.011852,
+ 'satisfiable': True}
+12
+{'restarts': 3.0,
+ 'conflicts': 253.0,
+ 'propagations': 10521.0,
+ 'conflict literals': 2764.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00267,
+ 'satisfiable': True}
+13
+{'restarts': 1.0,
+ 'conflicts': 76.0,
+ 'propagations': 3701.0,
+ 'conflict literals': 1051.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005411,
+ 'satisfiable': True}
+14
+{'restarts': 1.0,
+ 'conflicts': 58.0,
+ 'propagations': 3403.0,
+ 'conflict literals': 710.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001346,
+ 'satisfiable': True}
+15
+{'restarts': 1.0,
+ 'conflicts': 41.0,
+ 'propagations': 2060.0,
+ 'conflict literals': 473.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005514,
+ 'satisfiable': True}
+16
+{'restarts': 7.0,
+ 'conflicts': 1144.0,
+ 'propagations': 47440.0,
+ 'conflict literals': 17857.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008925,
+ 'satisfiable': True}
+17
+{'restarts': 1.0,
+ 'conflicts': 33.0,
+ 'propagations': 2053.0,
+ 'conflict literals': 308.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005197,
+ 'satisfiable': True}
+18
+{'restarts': 1.0,
+ 'conflicts': 70.0,
+ 'propagations': 2997.0,
+ 'conflict literals': 1149.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008829,
+ 'satisfiable': True}
+19
+{'restarts': 3.0,
+ 'conflicts': 273.0,
+ 'propagations': 11777.0,
+ 'conflict literals': 4138.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.007929,
+ 'satisfiable': True}
+20
+{'restarts': 1.0,
+ 'conflicts': 62.0,
+ 'propagations': 2814.0,
+ 'conflict literals': 450.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008471,
+ 'satisfiable': True}
+21
+{'restarts': 2.0,
+ 'conflicts': 110.0,
+ 'propagations': 4792.0,
+ 'conflict literals': 1090.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005807,
+ 'satisfiable': True}
+22
+{'restarts': 1.0,
+ 'conflicts': 81.0,
+ 'propagations': 3994.0,
+ 'conflict literals': 772.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005291,
+ 'satisfiable': True}
+23
+{'restarts': 2.0,
+ 'conflicts': 110.0,
+ 'propagations': 4724.0,
+ 'conflict literals': 939.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002287,
+ 'satisfiable': True}
+24
+{'restarts': 1.0,
+ 'conflicts': 29.0,
+ 'propagations': 1495.0,
+ 'conflict literals': 168.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005067,
+ 'satisfiable': True}
+25
+{'restarts': 1.0,
+ 'conflicts': 18.0,
+ 'propagations': 1331.0,
+ 'conflict literals': 180.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001636,
+ 'satisfiable': True}
+26
+{'restarts': 2.0,
+ 'conflicts': 135.0,
+ 'propagations': 6501.0,
+ 'conflict literals': 1902.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.007901,
+ 'satisfiable': True}
+27
+{'restarts': 3.0,
+ 'conflicts': 219.0,
+ 'propagations': 8563.0,
+ 'conflict literals': 3080.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.009619,
+ 'satisfiable': True}
+28
+{'restarts': 4.0,
+ 'conflicts': 448.0,
+ 'propagations': 19846.0,
+ 'conflict literals': 7448.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008056,
+ 'satisfiable': True}
+29
+{'restarts': 1.0,
+ 'conflicts': 15.0,
+ 'propagations': 1174.0,
+ 'conflict literals': 65.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.003637,
+ 'satisfiable': True}
+30
+{'restarts': 3.0,
+ 'conflicts': 327.0,
+ 'propagations': 11854.0,
+ 'conflict literals': 3588.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006997,
+ 'satisfiable': True}
+31
+{'restarts': 1.0,
+ 'conflicts': 85.0,
+ 'propagations': 4204.0,
+ 'conflict literals': 706.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004319,
+ 'satisfiable': True}
+32
+{'restarts': 2.0,
+ 'conflicts': 104.0,
+ 'propagations': 3916.0,
+ 'conflict literals': 896.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005554,
+ 'satisfiable': True}
+33
+{'restarts': 1.0,
+ 'conflicts': 19.0,
+ 'propagations': 1363.0,
+ 'conflict literals': 177.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002026,
+ 'satisfiable': True}
+34
+{'restarts': 2.0,
+ 'conflicts': 132.0,
+ 'propagations': 5818.0,
+ 'conflict literals': 1850.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.0,
+ 'satisfiable': True}
+35
+{'restarts': 3.0,
+ 'conflicts': 255.0,
+ 'propagations': 10136.0,
+ 'conflict literals': 1882.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002725,
+ 'satisfiable': True}
+36
+{'restarts': 1.0,
+ 'conflicts': 68.0,
+ 'propagations': 3043.0,
+ 'conflict literals': 770.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004536,
+ 'satisfiable': True}
+37
+{'restarts': 1.0,
+ 'conflicts': 38.0,
+ 'propagations': 2319.0,
+ 'conflict literals': 460.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005941,
+ 'satisfiable': True}
+38
+{'restarts': 1.0,
+ 'conflicts': 12.0,
+ 'propagations': 1106.0,
+ 'conflict literals': 126.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005248,
+ 'satisfiable': True}
+39
+{'restarts': 1.0,
+ 'conflicts': 71.0,
+ 'propagations': 3909.0,
+ 'conflict literals': 904.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005531,
+ 'satisfiable': True}
+40
+{'restarts': 1.0,
+ 'conflicts': 47.0,
+ 'propagations': 2718.0,
+ 'conflict literals': 361.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008574,
+ 'satisfiable': True}
+41
+{'restarts': 2.0,
+ 'conflicts': 197.0,
+ 'propagations': 5267.0,
+ 'conflict literals': 1648.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002544,
+ 'satisfiable': True}
+42
+{'restarts': 3.0,
+ 'conflicts': 295.0,
+ 'propagations': 10361.0,
+ 'conflict literals': 2873.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.009365,
+ 'satisfiable': True}
+43
+{'restarts': 1.0,
+ 'conflicts': 2.0,
+ 'propagations': 638.0,
+ 'conflict literals': 8.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005101,
+ 'satisfiable': True}
+44
+{'restarts': 1.0,
+ 'conflicts': 8.0,
+ 'propagations': 805.0,
+ 'conflict literals': 55.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004785,
+ 'satisfiable': True}
+45
+{'restarts': 2.0,
+ 'conflicts': 156.0,
+ 'propagations': 7762.0,
+ 'conflict literals': 1278.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.0,
+ 'satisfiable': True}
+46
+{'restarts': 4.0,
+ 'conflicts': 439.0,
+ 'propagations': 23197.0,
+ 'conflict literals': 6004.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00482,
+ 'satisfiable': True}
+47
+{'restarts': 3.0,
+ 'conflicts': 268.0,
+ 'propagations': 10383.0,
+ 'conflict literals': 3578.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.01044,
+ 'satisfiable': True}
+48
+{'restarts': 2.0,
+ 'conflicts': 139.0,
+ 'propagations': 5581.0,
+ 'conflict literals': 1110.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.007839,
+ 'satisfiable': True}
+49
+{'restarts': 2.0,
+ 'conflicts': 166.0,
+ 'propagations': 8869.0,
+ 'conflict literals': 3983.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006654,
+ 'satisfiable': True}
+50
+{'restarts': 6.0,
+ 'conflicts': 724.0,
+ 'propagations': 34634.0,
+ 'conflict literals': 12418.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.010148,
+ 'satisfiable': True}
+51
+{'restarts': 1.0,
+ 'conflicts': 0.0,
+ 'propagations': 581.0,
+ 'conflict literals': 0.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004895,
+ 'satisfiable': True}
+52
+{'restarts': 2.0,
+ 'conflicts': 155.0,
+ 'propagations': 6587.0,
+ 'conflict literals': 1228.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004542,
+ 'satisfiable': True}
+53
+{'restarts': 1.0,
+ 'conflicts': 74.0,
+ 'propagations': 3611.0,
+ 'conflict literals': 633.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005321,
+ 'satisfiable': True}
+54
+{'restarts': 1.0,
+ 'conflicts': 45.0,
+ 'propagations': 2216.0,
+ 'conflict literals': 305.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004789,
+ 'satisfiable': True}
+55
+{'restarts': 1.0,
+ 'conflicts': 18.0,
+ 'propagations': 1419.0,
+ 'conflict literals': 169.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005026,
+ 'satisfiable': True}
+56
+{'restarts': 1.0,
+ 'conflicts': 20.0,
+ 'propagations': 1407.0,
+ 'conflict literals': 185.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001294,
+ 'satisfiable': True}
+57
+{'restarts': 1.0,
+ 'conflicts': 90.0,
+ 'propagations': 3557.0,
+ 'conflict literals': 962.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008555,
+ 'satisfiable': True}
+58
+{'restarts': 2.0,
+ 'conflicts': 115.0,
+ 'propagations': 5077.0,
+ 'conflict literals': 1289.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004378,
+ 'satisfiable': True}
+59
+{'restarts': 1.0,
+ 'conflicts': 36.0,
+ 'propagations': 2043.0,
+ 'conflict literals': 561.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001487,
+ 'satisfiable': True}
+60
+{'restarts': 3.0,
+ 'conflicts': 210.0,
+ 'propagations': 8341.0,
+ 'conflict literals': 2598.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002481,
+ 'satisfiable': True}
+61
+{'restarts': 2.0,
+ 'conflicts': 147.0,
+ 'propagations': 6522.0,
+ 'conflict literals': 1224.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008326,
+ 'satisfiable': True}
+62
+{'restarts': 1.0,
+ 'conflicts': 81.0,
+ 'propagations': 3253.0,
+ 'conflict literals': 751.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005741,
+ 'satisfiable': True}
+63
+{'restarts': 1.0,
+ 'conflicts': 72.0,
+ 'propagations': 3791.0,
+ 'conflict literals': 1149.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001883,
+ 'satisfiable': True}
+64
+{'restarts': 1.0,
+ 'conflicts': 33.0,
+ 'propagations': 2367.0,
+ 'conflict literals': 408.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001815,
+ 'satisfiable': True}
+65
+{'restarts': 1.0,
+ 'conflicts': 88.0,
+ 'propagations': 4433.0,
+ 'conflict literals': 1206.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008724,
+ 'satisfiable': True}
+66
+{'restarts': 1.0,
+ 'conflicts': 77.0,
+ 'propagations': 3378.0,
+ 'conflict literals': 761.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001437,
+ 'satisfiable': True}
+67
+{'restarts': 1.0,
+ 'conflicts': 62.0,
+ 'propagations': 2261.0,
+ 'conflict literals': 498.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004062,
+ 'satisfiable': True}
+68
+{'restarts': 2.0,
+ 'conflicts': 102.0,
+ 'propagations': 5095.0,
+ 'conflict literals': 1404.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.003091,
+ 'satisfiable': True}
+69
+{'restarts': 1.0,
+ 'conflicts': 51.0,
+ 'propagations': 2422.0,
+ 'conflict literals': 598.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001805,
+ 'satisfiable': True}
+70
+{'restarts': 1.0,
+ 'conflicts': 68.0,
+ 'propagations': 3434.0,
+ 'conflict literals': 670.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001905,
+ 'satisfiable': True}
+71
+{'restarts': 2.0,
+ 'conflicts': 172.0,
+ 'propagations': 7189.0,
+ 'conflict literals': 2731.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006901,
+ 'satisfiable': True}
+72
+{'restarts': 1.0,
+ 'conflicts': 13.0,
+ 'propagations': 1153.0,
+ 'conflict literals': 124.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005037,
+ 'satisfiable': True}
+73
+{'restarts': 2.0,
+ 'conflicts': 185.0,
+ 'propagations': 6975.0,
+ 'conflict literals': 1731.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002301,
+ 'satisfiable': True}
+74
+{'restarts': 2.0,
+ 'conflicts': 177.0,
+ 'propagations': 7878.0,
+ 'conflict literals': 1845.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.006159,
+ 'satisfiable': True}
+75
+{'restarts': 1.0,
+ 'conflicts': 50.0,
+ 'propagations': 2771.0,
+ 'conflict literals': 433.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.008046,
+ 'satisfiable': True}
+76
+{'restarts': 3.0,
+ 'conflicts': 336.0,
+ 'propagations': 16212.0,
+ 'conflict literals': 3843.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.010065,
+ 'satisfiable': True}
+77
+{'restarts': 1.0,
+ 'conflicts': 95.0,
+ 'propagations': 3016.0,
+ 'conflict literals': 653.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00144,
+ 'satisfiable': True}
+78
+{'restarts': 1.0,
+ 'conflicts': 65.0,
+ 'propagations': 2711.0,
+ 'conflict literals': 395.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001488,
+ 'satisfiable': True}
+79
+{'restarts': 3.0,
+ 'conflicts': 259.0,
+ 'propagations': 10887.0,
+ 'conflict literals': 3026.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005312,
+ 'satisfiable': True}
+80
+{'restarts': 3.0,
+ 'conflicts': 229.0,
+ 'propagations': 9541.0,
+ 'conflict literals': 3144.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.007369,
+ 'satisfiable': True}
+81
+{'restarts': 1.0,
+ 'conflicts': 57.0,
+ 'propagations': 2794.0,
+ 'conflict literals': 672.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.009072,
+ 'satisfiable': True}
+82
+{'restarts': 1.0,
+ 'conflicts': 52.0,
+ 'propagations': 2728.0,
+ 'conflict literals': 763.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00532,
+ 'satisfiable': True}
+83
+{'restarts': 1.0,
+ 'conflicts': 78.0,
+ 'propagations': 4220.0,
+ 'conflict literals': 1262.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00467,
+ 'satisfiable': True}
+84
+{'restarts': 2.0,
+ 'conflicts': 107.0,
+ 'propagations': 4209.0,
+ 'conflict literals': 958.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.00575,
+ 'satisfiable': True}
+85
+{'restarts': 2.0,
+ 'conflicts': 100.0,
+ 'propagations': 5550.0,
+ 'conflict literals': 962.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.005863,
+ 'satisfiable': True}
+86
+{'restarts': 1.0,
+ 'conflicts': 4.0,
+ 'propagations': 734.0,
+ 'conflict literals': 44.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001873,
+ 'satisfiable': True}
+87
+{'restarts': 2.0,
+ 'conflicts': 165.0,
+ 'propagations': 7118.0,
+ 'conflict literals': 1858.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002383,
+ 'satisfiable': True}
+88
+{'restarts': 1.0,
+ 'conflicts': 7.0,
+ 'propagations': 790.0,
+ 'conflict literals': 88.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004949,
+ 'satisfiable': True}
+89
+{'restarts': 1.0,
+ 'conflicts': 20.0,
+ 'propagations': 1396.0,
+ 'conflict literals': 355.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.0,
+ 'satisfiable': True}
+90
+{'restarts': 2.0,
+ 'conflicts': 162.0,
+ 'propagations': 7466.0,
+ 'conflict literals': 1997.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.002388,
+ 'satisfiable': True}
+91
+{'restarts': 1.0,
+ 'conflicts': 19.0,
+ 'propagations': 1462.0,
+ 'conflict literals': 127.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001518,
+ 'satisfiable': True}
+92
+{'restarts': 1.0,
+ 'conflicts': 15.0,
+ 'propagations': 1255.0,
+ 'conflict literals': 102.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004794,
+ 'satisfiable': True}
+93
+{'restarts': 2.0,
+ 'conflicts': 129.0,
+ 'propagations': 5772.0,
+ 'conflict literals': 1286.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.001422,
+ 'satisfiable': True}
+94
+{'restarts': 2.0,
+ 'conflicts': 105.0,
+ 'propagations': 5122.0,
+ 'conflict literals': 1000.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.000622,
+ 'satisfiable': True}
+95
+{'restarts': 2.0,
+ 'conflicts': 174.0,
+ 'propagations': 6417.0,
+ 'conflict literals': 1747.0,
+ 'Memory used': 11.0,
+ 'CPU time': 0.004806,
+ 'satisfiable': True}
