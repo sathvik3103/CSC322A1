@@ -14,7 +14,7 @@ results found in results folder
 
 
 ### Test single puzzle
-sh run_puz.sh {Puzzle_number}
+sh run_puz.sh {Path-to-puzzle}
 
-test file pulled from: puzzles/puzzle{puzzle_number}.txt
+ex: sh run_puz.sh ./puzzles/puzzle3.txt
 
